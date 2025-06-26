@@ -26,10 +26,9 @@ NeuralTuringMachine/
 │   ├── Math.hs                 # Tensor and math operations
 │   ├── NTM.hs                  # Core NTM logic
 │   ├── Train.hs                # Training loop
-│   └── Task.hs                 # Sorting task generator
-├── plot/
-│   └── animate_plotly.ipynb    # 3D visualization (Python + Plotly)
-├── training_log.csv            # Training outputs (input, target, predicted)
+│   ├── Memory.hs
+│   ├── Addressing.hs
+│   └── LSTM.hs                 # Sorting task generator
 └── README.md
 ```
 
