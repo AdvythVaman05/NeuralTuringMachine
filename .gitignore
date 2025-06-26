@@ -1,0 +1,17 @@
+# Ignore build files
+.stack-work/
+dist/
+*.hi
+*.o
+
+# Ignore CSVs, videos, logs (if large or personal)
+*.csv
+*.mp4
+*.gif
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore editor files
+.vscode/
+*.swp
+.DS_Store
