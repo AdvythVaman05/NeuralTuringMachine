@@ -28,7 +28,7 @@ NeuralTuringMachine/
 │   ├── Train.hs                # Training loop
 │   ├── Memory.hs
 │   ├── Addressing.hs
-│   └── LSTM.hs                 # Sorting task generator
+│   └── LSTM.hs                 # Controller
 └── README.md
 ```
 
